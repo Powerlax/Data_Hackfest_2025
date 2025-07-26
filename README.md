@@ -84,8 +84,11 @@ Then, go to the link in the output to try out the model!
 ## Project Structure
 
 The Data Hackfest Workbook is my development workbook. It features all the things I tried throughout the two days in order to make a successful model. 
+
 The Data Hackfest Replication Projectbook is the cleaned up version of the development workbook. It features only the method used to train the final model.
+
 The audio-classifier.keras file represents the saved audio classifier that is used when running locally.
+
 The main.py file is the best way to try out this hack. When you run the python file, go to the link given in the output. The web app will be there.
 
 ---
