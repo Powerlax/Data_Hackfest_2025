@@ -40,17 +40,17 @@ The final solution uses transfer learning with YamNet embeddings (1024-dimension
 
 ## Training Performance
 
-Include your training/validation accuracy/loss plot here.
+This is a graph of the model accuracy during training.
 
-![Training Accuracy](/path/to/training-accuracy.png)
+![Training Accuracy](resources/training_graph.png)
 
 ---
 
 ## Confusion Matrix
 
-Add your final evaluation confusion matrix image here.
+This is a confusion matrix for the model.
 
-![Confusion Matrix](/path/to/confusion-matrix.png)
+![Confusion Matrix](resources/confusion_matrix.png)
 
 ---
 
