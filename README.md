@@ -1,7 +1,7 @@
 
 # Audio Classification
 
-A deep learning model trained to classify environmental sounds using the ESC-50 dataset and YamNet embeddings. This project was developed as part of a machine learning hackathon, with a focus on building a working prototype in under 8 hours.
+A deep learning model trained to classify environmental sounds using the ESC-50 dataset and YamNet embeddings. This project was developed as part of a machine learning hackathon, with a focus on building a working prototype in a short amount of time.
 
 ## Overview
 
