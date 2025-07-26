@@ -54,25 +54,6 @@ This is a confusion matrix for the model.
 
 ---
 
-## Web App
-
-The project includes a Gradio web app to demo the classifier:
-
-- The app is in the main.py python file
-- The app takes care of processing and validating inputs
-- All audio is resampled to 16 kHz and fed through YamNet
-- Top prediction (and probabilities) shown
-
-To run locally:
-
-```bash
-pip install -r requirements.txt
-python main.py
-```
-Then, go to the link in the output to try out the model!
-
----
-
 ## Evaluation Metrics
 
 - Accuracy (on test set): 91.3%
@@ -90,6 +71,25 @@ The Data Hackfest Replication Projectbook is the cleaned up version of the devel
 The audio-classifier.keras file represents the saved audio classifier that is used when running locally.
 
 The main.py file is the best way to try out this hack. When you run the python file, go to the link given in the output. The web app will be there.
+
+---
+
+## Web App
+
+The project includes a Gradio web app to demo the classifier:
+
+- The app is in the main.py python file
+- The app takes care of processing and validating inputs
+- All audio is resampled to 16 kHz and fed through YamNet
+- Top prediction (and probabilities) shown
+
+To run locally:
+
+```bash
+pip install -r requirements.txt
+python main.py
+```
+Then, go to the link in the output to try out the model!
 
 ---
 
