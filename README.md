@@ -90,14 +90,14 @@ The main.py file is the best way to try out this hack. When you run the python f
 
 ---
 
-## 📌 Future Work
+## Future Work
 
 - Attention-based classifier
 - Deploy on Hugging Face or Streamlit Cloud
 
 ---
 
-## 🙋‍♀️ Credits
+## Credits
 
 - ESC-50 dataset by Karol J. Piczak
 - YamNet by Google Research
